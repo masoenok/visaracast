@@ -1,0 +1,9 @@
+{
+  "versionCode": 129,
+  "versionName": "2.1.69",
+  "apkUrl": "https://github.com/masoenok/visaracast/releases/download/v2.1.69/visaracast-2.1.69-armeabi-v7a.apk",
+  "apkUrl_arm64-v8a": "https://github.com/masoenok/visaracast/releases/download/v2.1.69/visaracast-2.1.69-arm64-v8a.apk",
+  "apkUrl_armeabi-v7a": "https://github.com/masoenok/visaracast/releases/download/v2.1.69/visaracast-2.1.69-armeabi-v7a.apk",
+  "apkUrl_x86_64": "https://github.com/masoenok/visaracast/releases/download/v2.1.69/visaracast-2.1.69-x86_64.apk",
+  "notes": "Fix: Hero-Vorschau war auf TV-Geräten verzerrt — Video jetzt formatrichtig; Kachel-Standbilder robuster auf TV-Sticks."
+}
